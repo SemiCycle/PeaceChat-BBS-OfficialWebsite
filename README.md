@@ -1,2 +1,2 @@
-# EPBBS-OfficialWebsite
-The official website for Erik's Python BBS
+# PeaceChat-BBS-OfficialWebsite
+The official website for PeaceChat (formerly Erik's Python BBS)
