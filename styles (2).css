@@ -1,0 +1,32 @@
+.title1 {
+	color: black;
+	text-align: center;
+	border: 2px solid black;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #efd7a3;
+}
+.subtitle1 {
+  color: black;
+  text-align: center;
+  border: 2px solid black;
+  padding: 5px;
+  border-radius: 5px;
+  background-color: #efd7a3;
+}
+.p1 {
+  color: black;
+  text-align: center;
+  border: 2px solid black;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #efd7a3;
+}
+.imgborder {
+  border: 2px solid black;
+  border-radius: 5px;
+}
+.body {
+  background-color: #e2c27e;
+  font-family: "Ubuntu";
+}
