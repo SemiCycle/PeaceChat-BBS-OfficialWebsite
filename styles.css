@@ -5,7 +5,8 @@
   padding: 10px;
   border-radius: 5px;
   background-color: #efd7a3;
- max-width: 50px;
+ max-width: 300x;
+	margin: auto;
 }
 .subtitle1 {
   color: black;
@@ -36,6 +37,7 @@
   background-color: #e2c27e;
   font-family: "Ubuntu";
 }
+
 
 
 
