@@ -5,6 +5,7 @@
   padding: 10px;
   border-radius: 5px;
   background-color: #efd7a3;
+ width: 200px;
 }
 .subtitle1 {
   color: black;
@@ -13,6 +14,7 @@
   padding: 5px;
   border-radius: 5px;
   background-color: #efd7a3;
+	width: 200px;
 }
 .p1 {
   color: black;
@@ -21,6 +23,7 @@
   padding: 10px;
   border-radius: 5px;
   background-color: #efd7a3;
+	width: 200px;
 }
 .imgborder {
   border: 2px solid black;
@@ -33,4 +36,5 @@
   background-color: #e2c27e;
   font-family: "Ubuntu";
 }
+
 
