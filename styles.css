@@ -25,8 +25,12 @@
 .imgborder {
   border: 2px solid black;
   border-radius: 5px;
+    display: block;
+  margin: auto;
+  width: 50%;
 }
 .body {
   background-color: #e2c27e;
   font-family: "Ubuntu";
 }
+
